@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.pinterest.com/pin/hello-wave-gif-hello-wave-cute-discover-share-gifs--509117932889896116/)" width="35px">, I'm Phu !
 
 <!--
 **Phune23/Phune23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
