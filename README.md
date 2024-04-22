@@ -19,7 +19,7 @@ Hi 👋 My name is Son Phu
 </p>
 
 ## Stats and Languages 
-
+<img alt="My stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Phune23&theme=tokyonight" />
 <img alt="My languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phune23&hide_progress=true&theme=tokyonight" />
 
 
