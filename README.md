@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, Designer
 -------------------
 
-* 🌍  I'm based in I'm based in Ho Chi Minh, VietName
+* 🌍  I'm based in Ho Chi Minh, VietName
 * 🖥️  See my portfolio at [Phune23](http://github.com/Phune23)
 * ✉️  You can contact me at [phutranbs23@gmail.com](mailto:phutranbs23@gmail.com)
 * 🧠  I'm learning Frontend Developer
