@@ -5,7 +5,7 @@ Developer, Designer
 -------------------
 
 * 🌍  I'm based in Ho Chi Minh, VietNam
-* 🖥️  See my portfolio at [Phune23]((https://my-portfolio-production-6095.up.railway.app/))
+* 🖥️  See my portfolio at [Phune23](https://my-portfolio-production-6095.up.railway.app)
 * ✉️  You can contact me at [phutranbs23@gmail.com](mailto:phutranbs23@gmail.com)
 * 🧠  I'm learning Frontend Developer
 * ⚡  Code and Code
