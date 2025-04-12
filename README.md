@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, Designer
 -------------------
 
-* 🌍  I'm based in Ho Chi Minh, VietNam
-* 🖥️  See my portfolio at [Phune23](https://my-portfolio-production-6095.up.railway.app)
-* ✉️  You can contact me at [phutranbs23@gmail.com](mailto:phutranbs23@gmail.com)
-* 🧠  I'm learning Frontend Developer
-* ⚡  Code and Code
+* 🌍  I'm based in Ho Chi Minh, VietNam  
+* 🖥️  See my portfolio at <a href="https://my-portfolio-production-6095.up.railway.app" target="_blank">Phune23</a>  
+* 💻  Check out my React projects at <a href="https://react-playground-production.up.railway.app" target="_blank">React Playground</a>  
+* ✉️  You can contact me at <a href="mailto:phutranbs23@gmail.com" target="_blank">phutranbs23@gmail.com</a>  
+* 🧠  I'm learning Frontend Development with a focus on React.js  
+* 🔧  Practicing with components, state management, and responsive design  
+* ⚡  Passionate about turning ideas into interactive web experiences  
 
 ### Skills
 
